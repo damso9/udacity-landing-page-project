@@ -14,9 +14,6 @@
     box-sizing: border-box;
 }
 
-html {
-    scroll-behavior: smooth;
-}
 
 /* ---- Base Rules ---- */
 body {
@@ -35,6 +32,10 @@ ul li {
 
 
     
+}
+.active {
+    background-color: #000d3c;
+    color: white;
 }
 
 
