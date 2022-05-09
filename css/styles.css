@@ -7,6 +7,12 @@
  * To learn more, visit: https://css-tricks.com/reboot-resets-reasoning/
  *
 */
+/* // I Appreciate the REVIEW. Thanks for the encouragement. It means a lot! - I'll be pleased to connect  -https://www.linkedin.com/in/damilola-ayodele/
+// I Appreciate the REVIEW. Thanks for the encouragement. It means a lot! - I'll be pleased to connect - https://www.linkedin.com/in/damilola-ayodele/ */
+
+* {
+    box-sizing: border-box;
+}
 
 html {
     scroll-behavior: smooth;
@@ -20,10 +26,19 @@ body {
     font-family: 'Merriweather', serif;
     color: #fff;
 }
+ul li {
+    color: black;
+}
+.nav-style {
+    color: white;
+    background-color: #000d3c;
 
-/* .active {
-    border: 2px solid green;
-} */
+
+    
+}
+
+
+
 /* Typeography General*/
 h1 {
     font-family: 'Fira Sans', sans-serif;
